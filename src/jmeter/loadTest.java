@@ -13,7 +13,7 @@ public class loadTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://ebay.com");
 		System.out.println(driver.getTitle());
-		System.out.println(driver.getTitle());
+		
 		
 		
 	}
